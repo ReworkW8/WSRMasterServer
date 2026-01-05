@@ -1,5 +1,6 @@
 {
-    "featuredApps" : {
+    "offline": true,
+    "featuredApps": {
         "appNames": [
             "weatherRetiled",
             "newsRetiled",
@@ -9,8 +10,8 @@
             "crossyRoad"
         ]
     },
-    "topApps" : {
-        "appNames" : [
+    "topApps": {
+        "appNames": [
             "myTube",
             "adobePhotoshop",
             "openTracks",
@@ -19,8 +20,8 @@
             "financeRetiled"
         ]
     },
-    "topGames" : {
-        "appNames" : [
+    "topGames": {
+        "appNames": [
             "angryBirdsSpace",
             "msMinesweeper",
             "cutTheRope",
@@ -30,8 +31,3 @@
         ]
     }
 }
-
-
-
-
-
