@@ -1,0 +1,20 @@
+{
+    "displayname" : "WinJS",
+    "productType" : "dependency",
+    "downloadUriS" : [
+        "https://dankassassin368.com/Stuff/APPX/Dependencies/Windows%208.0%20APPX%20Dependencies/WinJS/0.6.8229.0/Microsoft.WinJS.0.6_0.6.8229.0_neutral__8wekyb3d8bbwe.appx",
+        "https://dankassassin368.com/Stuff/APPX/Dependencies/Windows%208.0%20APPX%20Dependencies/WinJS/1.0.9200.20602/Microsoft.WinJS.1.0_1.0.9200.20602_neutral__8wekyb3d8bbwe.appx",
+        "https://dankassassin368.com/Stuff/APPX/Dependencies/Windows%208.0%20APPX%20Dependencies/WinJS/1.0.9200.20789/Microsoft.WinJS.1.0_1.0.9200.20789_neutral__8wekyb3d8bbwe.Appx",
+        "https://dankassassin368.com/Stuff/APPX/Dependencies/Windows%208.1%20APPX%20Dependencies/WinJS/Microsoft.WinJS.2.0.Preview_1.0.9431.0_neutral__8wekyb3d8bbwe.appx",
+        "https://dankassassin368.com/Stuff/APPX/Dependencies/Windows%208.1%20APPX%20Dependencies/WinJS/Microsoft.WinJS.2.0_1.0.9456.0_neutral__8wekyb3d8bbwe.appx",
+        "https://dankassassin368.com/Stuff/APPX/Dependencies/Windows%208.1%20APPX%20Dependencies/WinJS/Microsoft.WinJS.2.0_1.0.9600.17018_neutral__8wekyb3d8bbwe.Appx"
+    ],
+    "displaynames" : [
+        "WinJS 0.6.8229",
+        "WinJS 1.0.9200.20602",
+        "WinJS 1.0.9200.20789",
+        "WinJS 2.0 1.0.9431",
+        "WinJS 2.0 1.0.9456",
+        "WinJS 2.0 1.0.9600"
+    ]
+}
