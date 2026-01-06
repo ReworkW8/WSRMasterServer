@@ -1,5 +1,5 @@
 {
-    "offline": false,
+    "offline": true,
     "featuredApps": {
         "appNames": [
             "weatherRetiled",
