@@ -1,40 +1,37 @@
 {
-    "offline": true,
-    "featuredApps" : {
-        "appNames": [
-            "weatherRetiled",
-            "newsRetiled",
-            "freshPaint",
-            "cutTheRope",
-            "twitterBlueTweety",
-            "crossyRoad"
-        ]
+  "server_status": {
+    "offline": false,
+  },
+  "store_content": {
+    "featuredApps": {
+      "appNames": [
+        "weatherRetiled",
+        "newsRetiled",
+        "freshPaint",
+        "cutTheRope",
+        "twitterBlueTweety",
+        "crossyRoad"
+      ]
     },
-    "topApps" : {
-        "appNames" : [
-            "myTube",
-            "adobePhotoshop",
-            "openTracks",
-            "networkSpeedTest",
-            "kindle",
-            "financeRetiled"
-        ]
+    "topApps": {
+      "appNames": [
+        "myTube",
+        "adobePhotoshop",
+        "openTracks",
+        "networkSpeedTest",
+        "kindle",
+        "financeRetiled"
+      ]
     },
-    "topGames" : {
-        "appNames" : [
-            "angryBirdsSpace",
-            "msMinesweeper",
-            "cutTheRope",
-            "whereismyWhater",
-            "fruitNinja",
-            "raymanJungleRun"
-        ]
+    "topGames": {
+      "appNames": [
+        "angryBirdsSpace",
+        "msMinesweeper",
+        "cutTheRope",
+        "whereismyWhater",
+        "fruitNinja",
+        "raymanJungleRun"
+      ]
     }
+  }
 }
-
-
-
-
-
-
-
