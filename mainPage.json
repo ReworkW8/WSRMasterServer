@@ -1,4 +1,6 @@
 {
+    "masterserver": port=5000
+    "offline": true,
     "featuredApps" : {
         "appNames": [
             "weatherRetiled",
@@ -30,6 +32,7 @@
         ]
     }
 }
+
 
 
 
