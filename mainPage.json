@@ -7,7 +7,7 @@
     "allow_download": true,
     "auto_update": false
     "masterserver": port= 5000
-    "offline": true,
+    "offline": false,
     "featuredApps" : {
         "appNames": [
             "weatherRetiled",
@@ -39,6 +39,7 @@
         ]
     }
 }
+
 
 
 
