@@ -1,30 +1,44 @@
 {
-  "AllApps" : [
-    "adobePhotoshop",
-    "angryBirdsSpace",
-    "angryBirdsStarWars",
-    "crossyRoad",
-    "cutTheRope",
-    "financeRetiled",
-    "freshPaint",
-    "food&drinkRetiled",
-    "fruitNinja",
-    "health&fitnessRetiled.json",
-    "kindle",
-    "msMinesweeper",
-    "myTube",
-    "networkSpeedTest",
-    "newsRetiled",
-    "openTracks",
-    "raymanJungleRun",
-    "sonicDash",
-    "sportsRetiled",
-    "templeRunOz",
-    "travelRetiled",
-    "twitterBlueTweety",
-    "weatherRetiled",
-    "whereismyWhater",
-    "xboxGamesAppRetiled"
-  ],
-  "width" : "1000px"
+  "rework_core_system": {
+    "gateway_control": {
+      "node_active": true,
+      "maintenance_mode": false
+    },
+    "content_registry": {
+      "deployment_groups": {
+        "curated_selection": {
+          "payload": [
+            { "label": "angryBirdsSpace", "uid": "game_01" },
+            { "label": "adobePhotoshop", "uid": "app_01" },
+            { "label": "cutTheRope", "uid": "game_02" },
+            { "label": "weatherRetiled", "uid": "app_02" }
+          ]
+        },
+        "utility_peak": {
+          "payload": [
+            { "label": "adobePhotoshop", "uid": "app_01" },
+            { "label": "financeRetiled", "uid": "app_03" },
+            { "label": "myTube", "uid": "app_04" },
+            { "label": "weatherRetiled", "uid": "app_02" },
+            { "label": "newsRetiled", "uid": "app_05" },
+            { "label": "networkSpeedTest", "uid": "app_06" }
+          ]
+        },
+        "gaming_peak": {
+          "payload": [
+            { "label": "angryBirdsSpace", "uid": "game_01" },
+            { "label": "angryBirdsStarWars", "uid": "game_03" },
+            { "label": "fruitNinja", "uid": "game_04" },
+            { "label": "sonicDash", "uid": "game_05" },
+            { "label": "raymanJungleRun", "uid": "game_06" },
+            { "label": "templeRunOz", "uid": "game_07" }
+          ]
+        }
+      }
+    }
+  },
+  "metadata": {
+    "container_width": "1000px",
+    "version": "2.0.0"
+  }
 }
