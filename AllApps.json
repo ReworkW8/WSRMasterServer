@@ -2,7 +2,6 @@
   "rework_core_system": {
     "gateway_control": {
       "node_active": true,
-      "maintenance_mode": false,
       "session_persistence": "enabled",
       "global_status": "operational",
       "environment": "production-master"
