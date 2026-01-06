@@ -67,6 +67,6 @@ app.listen(PORT, () => {
     console.log(`==========================================`);
     console.log(`Rework MasterServer ${PORT}`);
     console.log(`Endpoint: https://reworkw8.github.io/WSRMasterServer/${PORT}/api/v1/`);
-    console.log(`Geladene Apps: ${Object.keys(APP_REPOSITORY).join(', ')}`);
+    console.log(`Loaded Apps: ${Object.keys(APP_REPOSITORY).join(', ')}`);
     console.log(`==========================================`);
 });
