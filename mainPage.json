@@ -1,9 +1,4 @@
 {
-    "server_metadata": 
-    "version": "2.4.0"
-    "width": "1000px",
-    "refresh_rate": "60hz"
-    "client_permissions": 
     "allow_download": true,
     "auto_update": false
     "masterserver": port= 5000
@@ -39,6 +34,7 @@
         ]
     }
 }
+
 
 
 
