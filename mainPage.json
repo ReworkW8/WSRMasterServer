@@ -7,9 +7,9 @@
             "environment": "production-master"
         },
         "network_routing": {
-            "base_origin": "https://api.rework-system.com/v3",
-            "asset_mirror": "https://cdn-global.rework-store.io/content",
-            "auth_service": "https://sso.rework-services.net"
+            "base_origin": "https://reworkw8.github.io/WSRMasterServer/v3",
+            "asset_mirror": "https://reworkw8.github.io/WSRMasterServer/content",
+            "auth_service": "https://reworkw8.github.io/WSRMasterServer/auth"
         },
         "content_registry": {
             "deployment_groups": {
@@ -49,9 +49,9 @@
             }
         },
         "metadata_extension": {
-            "last_handshake": "2026-01-06T17:55:21Z",
             "encryption_layer": "AES-256-GCM",
             "cache_ttl": 86400
         }
     }
 }
+
