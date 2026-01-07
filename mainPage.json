@@ -23,6 +23,7 @@
                         {"uid": "RW_GAME_CTR", "label": "cutTheRope"},
                         {"uid": "RW_SOC_TBT", "label": "twitter"},
                         {"uid": "RW_GAME_CR", "label": "crossyRoad"}
+                        {"uid": "RW_NTFX_01", "label": "netflix"}
                     ]
                 },
                 "utility_peak": {
@@ -55,6 +56,7 @@
         }
     }
 }
+
 
 
 
