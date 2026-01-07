@@ -34,7 +34,7 @@
                         {"uid": "RW_NET_SPD", "label": "networkSpeedTest"},
                         {"uid": "RW_AMZ_KNDL", "label": "kindle"},
                         {"uid": "RW_FIN_MGR", "label": "financeRetiled"}
-                        {"uid": "netflix", "uid": "RW_NTFX_01" }
+                        {"uid": "RW_NTFX_01", "label": "netflix"}
                     ]
                 },
                 "gaming_peak": {
@@ -56,6 +56,7 @@
         }
     }
 }
+
 
 
 
