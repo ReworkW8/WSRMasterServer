@@ -20,6 +20,7 @@
             { "label": "sportsRetiled", "uid": "RW_SPT_01" },
             { "label": "travelRetiled", "uid": "RW_TRVL_01" }
             { "label": "netflix", "uid": "RW_NTFX_01" }
+            { "label": "dogedodge", "uid": "RW_DGDD_01" }
           ]
         },
         "utility_peak": {
