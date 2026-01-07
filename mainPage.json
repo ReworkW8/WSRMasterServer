@@ -15,6 +15,7 @@
         "content_registry": {
             "deployment_groups": {
                 "curated_selection": {
+                    "title": "Featured",
                     "internal_code": "RW-FL-001",
                     "payload": [
                         {"uid": "RW_WTHR_88", "label": "weatherRetiled"},
@@ -50,12 +51,12 @@
                         {"uid": "RW_G_RRX", "label": "raymanJungleRun"}
                     ]
                 },
-                "essential_tools": {
-                    "title": "Essential Tools",
+                "": {
+                    "title": "",
                     "internal_code": "RW-ET-004",
                     "payload": [
-                        {"uid": "RW_G_ABS", "label": "angryBirdsSpace"},
-                        {"uid": "RW_G_RRX", "label": "raymanJungleRun"}
+                        {"uid": "", "label": ""},
+                        {"": "RW_G_RRX", "label": ""}
                     ]
                 }
             }
@@ -66,4 +67,5 @@
         }
     }
 }
+
 
