@@ -15,6 +15,7 @@
         "content_registry": {
             "deployment_groups": {
                 "curated_selection": {
+                    "title": "Spotlight",
                     "internal_code": "RW-FL-001",
                     "payload": [
                         {"uid": "RW_WTHR_88", "label": "weatherRetiled"},
@@ -26,6 +27,7 @@
                     ]
                 },
                 "utility_peak": {
+                    "title": "Top Apps",
                     "internal_code": "RW-TA-002",
                     "payload": [
                         {"uid": "RW_MTB_07", "label": "myTube"},
@@ -38,6 +40,7 @@
                     ]
                 },
                 "gaming_peak": {
+                    "title": "Top Games",
                     "internal_code": "RW-TG-003",
                     "payload": [
                         {"uid": "RW_G_ABS", "label": "angryBirdsSpace"},
@@ -45,6 +48,14 @@
                         {"uid": "RW_G_CTR_L", "label": "cutTheRope"},
                         {"uid": "RW_G_WMW", "label": "whereismyWhater"},
                         {"uid": "RW_G_FNJ", "label": "fruitNinja"},
+                        {"uid": "RW_G_RRX", "label": "raymanJungleRun"}
+                    ]
+                },
+                "essential_tools": {
+                    "title": "Essential Tools",
+                    "internal_code": "RW-ET-004",
+                    "payload": [
+                        {"uid": "RW_G_ABS", "label": "angryBirdsSpace"},
                         {"uid": "RW_G_RRX", "label": "raymanJungleRun"}
                     ]
                 }
@@ -56,9 +67,3 @@
         }
     }
 }
-
-
-
-
-
-
