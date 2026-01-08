@@ -48,6 +48,7 @@
                         {"uid": "RW_G_CTR_L", "label": "cutTheRope"},
                         {"uid": "RW_G_WMW", "label": "whereismyWhater"},
                         {"uid": "RW_G_FNJ", "label": "fruitNinja"},
+                        {"uid": "RW_DWTD2TG_01", "label": "dumbwaystodie2thegames"},
                         {"uid": "RW_G_RRX", "label": "raymanJungleRun"}
                     ]
                 },
@@ -67,4 +68,5 @@
         }
     }
 }
+
 
