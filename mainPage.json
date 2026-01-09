@@ -24,6 +24,7 @@
                         {"uid": "RW_GAME_CTR", "label": "cutTheRope"},
                         {"uid": "RW_SOC_TBT", "label": "twitterBlueTweety"},
                         {"uid": "RW_GAME_CR", "label": "crossyRoad"}
+                        {"uid": "RW_APPINST_01", "label": "appinstaller"}
                     ]
                 },
                 "utility_peak": {
@@ -58,7 +59,7 @@
                     "payload": [
                         {
                             "title": "Great Apps",
-                            "apps": ["weatherRetiled", "newsRetiled", "freshPaint", "netflix"]
+                            "apps": ["appinstaller", "xboxGamesAppRetiled", "freshPaint", "netflix"]
                         },
                         {
                             "title": "Getting Started",
@@ -85,6 +86,7 @@
         }
     }
 }
+
 
 
 
