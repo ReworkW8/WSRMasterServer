@@ -68,6 +68,13 @@
                     "title": "Top Grossing",
                     "internal_code": "RW-GR-005",
                     "payload": [
+                        {"uid": "RW_G_ABS", "label": "food&drinkRetiled"},
+                        {"uid": "RW_G_MSW", "label": "dogedodge"},
+                        {"uid": "RW_G_CTR_L", "label": "sonicDash"},
+                        {"uid": "RW_G_WMW", "label": "freshPaint"},
+                        {"uid": "RW_G_FNJ", "label": "fruitNinja"},
+                        {"uid": "RW_DWTD2TG_01", "label": "openTracks"},
+                        {"uid": "RW_G_RRX", "label": "travelRetiled"}
                         
                     ]
                 },
@@ -75,6 +82,13 @@
                     "title": "Best Rated",
                     "internal_code": "RW-RT-006",
                     "payload": [
+                        {"uid": "RW_G_ABS", "label": "kindle"},
+                        {"uid": "RW_G_MSW", "label": "raymanJungleRun"},
+                        {"uid": "RW_G_CTR_L", "label": "templeRunOz"},
+                        {"uid": "RW_G_WMW", "label": "xboxGamesAppRetiled"},
+                        {"uid": "RW_G_FNJ", "label": "netflix"},
+                        {"uid": "RW_DWTD2TG_01", "label": "openTracks"},
+                        {"uid": "RW_G_RRX", "label": "freshPaint"}
                         
                     ]
                 },
@@ -121,6 +135,7 @@
         }
     }
 }
+
 
 
 
