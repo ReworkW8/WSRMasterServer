@@ -2,8 +2,9 @@
     "displayname" : "Network Speed Test",
     "productType" : "app",
     "category" : "productivity",
-    "imgUrl" : "",
+    "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/networkSpeedTest.png",
     "downloadUri" : ""
 
 }
+
 
