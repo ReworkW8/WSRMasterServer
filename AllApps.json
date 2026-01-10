@@ -24,6 +24,7 @@
             { "label": "appinstaller", "uid": "RW_APPINST_01" },
             { "label": "store", "uid": "RW_STORE_01" },
             { "label": "msoclient", "uid": "RW_MSO_01" },
+            { "label": "robloxrework", "uid": "RW_RBLX_01" },
             { "label": "travelRetiled", "uid": "RW_TRVL_01" }
           ]
         },
