@@ -57,52 +57,52 @@
                     "title": "New & Rising",
                     "internal_code": "RW-N&R-004",
                     "payload": [
-                        {"uid": "RW_G_ABS", "label": "angryBirdsSpace"},
-                        {"uid": "RW_G_MSW", "label": "msMinesweeper"},
-                        {"uid": "RW_G_CTR_L", "label": "cutTheRope"},
-                        {"uid": "RW_G_WMW", "label": "whereismyWhater"},
-                        {"uid": "RW_G_FNJ", "label": "fruitNinja"},
-                        {"uid": "RW_DWTD2TG_01", "label": "dumbwaystodie2thegames"},
-                        {"uid": "RW_G_RRX", "label": "raymanJungleRun"}
+                        {"uid": "", "label": ""},
+                        {"uid": "", "label": ""},
+                        {"uid": "", "label": ""},
+                        {"uid": "", "label": ""},
+                        {"uid": "", "label": ""},
+                        {"uid": "", "label": ""},
+                        {"uid": "", "label": ""}
                     ]
                 },
                 "grossing_peak": {
                     "title": "Top Grossing",
                     "internal_code": "RW-GR-005",
                     "payload": [
-                        {"uid": "RW_G_ABS", "label": "angryBirdsSpace"},
-                        {"uid": "RW_G_MSW", "label": "msMinesweeper"},
-                        {"uid": "RW_G_CTR_L", "label": "cutTheRope"},
-                        {"uid": "RW_G_WMW", "label": "whereismyWhater"},
-                        {"uid": "RW_G_FNJ", "label": "fruitNinja"},
-                        {"uid": "RW_DWTD2TG_01", "label": "dumbwaystodie2thegames"},
-                        {"uid": "RW_G_RRX", "label": "raymanJungleRun"}
+                        {"uid": "", "label": ""},
+                        {"uid": "", "label": ""},
+                        {"uid": "", "label": ""},
+                        {"uid": "", "label": ""},
+                        {"uid": "", "label": ""},
+                        {"uid": "", "label": ""},
+                        {"uid": "", "label": ""}
                     ]
                 },
                 "rated_peak": {
                     "title": "Best Rated",
                     "internal_code": "RW-RT-006",
                     "payload": [
-                        {"uid": "RW_G_ABS", "label": "angryBirdsSpace"},
-                        {"uid": "RW_G_MSW", "label": "msMinesweeper"},
-                        {"uid": "RW_G_CTR_L", "label": "cutTheRope"},
-                        {"uid": "RW_G_WMW", "label": "whereismyWhater"},
-                        {"uid": "RW_G_FNJ", "label": "fruitNinja"},
-                        {"uid": "RW_DWTD2TG_01", "label": "dumbwaystodie2thegames"},
-                        {"uid": "RW_G_RRX", "label": "raymanJungleRun"}
+                        {"uid": "", "label": ""},
+                        {"uid": "", "label": ""},
+                        {"uid": "", "label": ""},
+                        {"uid": "", "label": ""},
+                        {"uid": "", "label": ""},
+                        {"uid": "", "label": ""},
+                        {"uid": "", "label": ""}
                     ]
                 },
                 "rework_peak": {
                     "title": "Rework Apps",
                     "internal_code": "RW-App-007",
                     "payload": [
-                        {"uid": "RW_G_ABS", "label": "angryBirdsSpace"},
-                        {"uid": "RW_G_MSW", "label": "msMinesweeper"},
-                        {"uid": "RW_G_CTR_L", "label": "cutTheRope"},
-                        {"uid": "RW_G_WMW", "label": "whereismyWhater"},
-                        {"uid": "RW_G_FNJ", "label": "fruitNinja"},
-                        {"uid": "RW_DWTD2TG_01", "label": "dumbwaystodie2thegames"},
-                        {"uid": "RW_G_RRX", "label": "raymanJungleRun"}
+                        {"uid": "RW_STORE_01", "label": "store"},
+                        {"uid": "", "label": ""},
+                        {"uid": "", "label": ""},
+                        {"uid": "", "label": ""},
+                        {"uid": "", "label": ""},
+                        {"uid": "", "label": ""},
+                        {"uid": "", "label": ""}
                     ]
                 },
                 "collections_registry": {
@@ -138,6 +138,7 @@
         }
     }
 }
+
 
 
 
