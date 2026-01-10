@@ -57,39 +57,21 @@
                     "title": "New & Rising",
                     "internal_code": "RW-N&R-004",
                     "payload": [
-                        {"uid": "", "label": ""},
-                        {"uid": "", "label": ""},
-                        {"uid": "", "label": ""},
-                        {"uid": "", "label": ""},
-                        {"uid": "", "label": ""},
-                        {"uid": "", "label": ""},
-                        {"uid": "", "label": ""}
+                        
                     ]
                 },
                 "grossing_peak": {
                     "title": "Top Grossing",
                     "internal_code": "RW-GR-005",
                     "payload": [
-                        {"uid": "", "label": ""},
-                        {"uid": "", "label": ""},
-                        {"uid": "", "label": ""},
-                        {"uid": "", "label": ""},
-                        {"uid": "", "label": ""},
-                        {"uid": "", "label": ""},
-                        {"uid": "", "label": ""}
+                        
                     ]
                 },
                 "rated_peak": {
                     "title": "Best Rated",
                     "internal_code": "RW-RT-006",
                     "payload": [
-                        {"uid": "", "label": ""},
-                        {"uid": "", "label": ""},
-                        {"uid": "", "label": ""},
-                        {"uid": "", "label": ""},
-                        {"uid": "", "label": ""},
-                        {"uid": "", "label": ""},
-                        {"uid": "", "label": ""}
+                        
                     ]
                 },
                 "rework_peak": {
@@ -138,6 +120,7 @@
         }
     }
 }
+
 
 
 
