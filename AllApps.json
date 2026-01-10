@@ -14,7 +14,7 @@
             { "label": "weatherRetiled", "uid": "RW_WTHR_88" },
             { "label": "newsRetiled", "uid": "RW_NEWS_12" },
             { "label": "freshPaint", "uid": "RW_PNT_99" },
-            { "label": "twitterBlueTweety", "uid": "RW_SOC_TBT" },
+            { "label": "twitter", "uid": "RW_SOC_TBT" },
             { "label": "xboxGamesAppRetiled", "uid": "RW_XBOX_01" },
             { "label": "food&drinkRetiled", "uid": "RW_FD_01" },
             { "label": "sportsRetiled", "uid": "RW_SPT_01" },
