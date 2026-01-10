@@ -58,7 +58,8 @@
                     "title": "New & Rising",
                     "internal_code": "RW-N&R-004",
                     "payload": [
-                        {"uid": "RW_TYPS_01", "label": "tortasypostres"}
+                        {"uid": "RW_TYPS_01", "label": "tortasypostres"},
+                        {"uid": "RW_DZR_01", "label": "deezer"}
                         
                         
                     ]
@@ -120,6 +121,7 @@
         }
     }
 }
+
 
 
 
