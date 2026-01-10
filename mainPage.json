@@ -28,7 +28,7 @@
                     ]
                 },
                 "utility_peak": {
-                    "title": "Top Apps",
+                    "title": "Top apps",
                     "internal_code": "RW-TA-002",
                     "payload": [
                         {"uid": "RW_MTB_07", "label": "myTube"},
@@ -41,7 +41,7 @@
                     ]
                 },
                 "gaming_peak": {
-                    "title": "Top Games",
+                    "title": "Top games",
                     "internal_code": "RW-TG-003",
                     "payload": [
                         {"uid": "RW_G_ABS", "label": "angryBirdsSpace"},
@@ -66,9 +66,35 @@
                         {"uid": "RW_G_RRX", "label": "raymanJungleRun"}
                     ]
                 },
+                "grossing_peak": {
+                    "title": "Top grossing",
+                    "internal_code": "RW-GR-005",
+                    "payload": [
+                        {"uid": "RW_G_ABS", "label": "angryBirdsSpace"},
+                        {"uid": "RW_G_MSW", "label": "msMinesweeper"},
+                        {"uid": "RW_G_CTR_L", "label": "cutTheRope"},
+                        {"uid": "RW_G_WMW", "label": "whereismyWhater"},
+                        {"uid": "RW_G_FNJ", "label": "fruitNinja"},
+                        {"uid": "RW_DWTD2TG_01", "label": "dumbwaystodie2thegames"},
+                        {"uid": "RW_G_RRX", "label": "raymanJungleRun"}
+                    ]
+                },
+                "rated_peak": {
+                    "title": "Best rated",
+                    "internal_code": "RW-RT-006",
+                    "payload": [
+                        {"uid": "RW_G_ABS", "label": "angryBirdsSpace"},
+                        {"uid": "RW_G_MSW", "label": "msMinesweeper"},
+                        {"uid": "RW_G_CTR_L", "label": "cutTheRope"},
+                        {"uid": "RW_G_WMW", "label": "whereismyWhater"},
+                        {"uid": "RW_G_FNJ", "label": "fruitNinja"},
+                        {"uid": "RW_DWTD2TG_01", "label": "dumbwaystodie2thegames"},
+                        {"uid": "RW_G_RRX", "label": "raymanJungleRun"}
+                    ]
+                },
                 "collections_registry": {
                     "title": "Collections",
-                    "internal_code": "RW-COLL-005",
+                    "internal_code": "RW-COLL-007",
                     "payload": [
                         {
                             "title": "Great Apps",
@@ -99,6 +125,7 @@
         }
     }
 }
+
 
 
 
