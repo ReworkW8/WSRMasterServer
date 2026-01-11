@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tile>
+  <visual lang="de-DE" version="2">
+
+    <binding template="TileSquare150x150PeekImageAndText04" branding="name">
+      <image id="1" src="https://reworkw8.github.io/images/WSLogo.png"/>
+      <text id="1">App Name</text>
+    </binding>
+
+    <binding template="TileWide310x150SmallImageAndText02" branding="logo">
+      <image id="1" src="https://reworkw8.github.io/images/WSLogo.png"/>
+      <text id="1">App Titel</text>
+      <text id="2">Kostenlos ★★★★☆ 123</text>
+    </binding>
+
+    <binding template="TileSquare310x310SmallImageAndText01" branding="logo">
+      <image id="1" src="https://reworkw8.github.io/images/WSLogo.png"/>
+      <text id="1">App Titel</text>
+      <text id="2">Dies ist die lange Beschreibung der App, wie sie in deinem Script aus card.LongDescription gezogen wird.</text>
+      <text id="3">Kostenlos ★★★★☆ 123</text>
+    </binding>
+
+  </visual>
+</tile>
