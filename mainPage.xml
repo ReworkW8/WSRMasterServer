@@ -1,8 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <tile>
-  <visual version="1">
-    <binding template="TileSquare150x150Text04">
-      <text id="1">LiveTile OK</text>
+  <visual lang="de-DE" version="2">
+    
+    <binding template="TileWide310x150SmallImageAndText02" branding="logo">
+      <image id="1" src="https://reworkw8.github.io/WSRMasterServer/apps/images/mytube_wide.png"/>
+      <text id="1">myTube</text>
+      <text id="2">Kostenlos    ★★★★☆</text>
     </binding>
+    <binding template="TileSquare150x150PeekImageAndText04" branding="name">
+      <image id="1" src="ms-appx:///images/WSLogo.png"/>
+      <text id="1">myTube</text>
+    </binding>
+
+    <binding template="TileWide310x150SmallImageAndText02" branding="logo">
+      <image id="1" src="https://reworkw8.github.io/WSRMasterServer/apps/images/abs_wide.png"/>
+      <text id="1">Angry Birds Space</text>
+      <text id="2">Kostenlos    ★★★★★</text>
+    </binding>
+
+    <binding template="TileWide310x150SmallImageAndText02" branding="logo">
+      <image id="1" src="https://reworkw8.github.io/WSRMasterServer/apps/images/photoshop_wide.png"/>
+      <text id="1">Adobe Photoshop</text>
+      <text id="2">Kostenlos    ★★★★☆</text>
+    </binding>
+
+    <binding template="TileSquare310x310SmallImageAndText01" branding="logo">
+      <image id="1" src="https://reworkw8.github.io/WSRMasterServer/apps/images/mytube_large.png"/>
+      <text id="1">Rework Store</text>
+      <text id="2">Entdecke die besten Apps für Windows 8 neu. Jetzt verfügbar: myTube, Netflix und viele mehr.</text>
+      <text id="3">Kostenlos    ★★★★★</text>
+    </binding>
+
   </visual>
 </tile>
