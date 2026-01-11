@@ -14,7 +14,7 @@
         },
         "content_registry": {
             "live_tile_feed": {
-                "internal_code": "RW-LT-TEXT",
+                "internal_code": "RW-LT-TITLE",
                 "update_policy": "cycle_random",
                 "payload": [
                     {"uid": "RW_MTB_07", "label": "myTube"},
@@ -153,3 +153,4 @@
         }
     }
 }
+
