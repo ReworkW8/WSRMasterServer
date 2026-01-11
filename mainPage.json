@@ -8,7 +8,7 @@
             "environment": "production-master"
         },
         "network_routing": {
-            "base_origin": "https://reworkw8.github.io/WSRMasterServer/v3",
+            "base_origin":  "https://reworkw8.github.io/WSRMasterServer/v3",
             "asset_mirror": "https://reworkw8.github.io/WSRMasterServer/content",
             "auth_service": "https://reworkw8.github.io/WSRMasterServer/auth"
         },
@@ -153,6 +153,7 @@
         }
     }
 }
+
 
 
 
