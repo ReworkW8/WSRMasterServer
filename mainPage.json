@@ -17,7 +17,7 @@
                 "internal_code": "RW-LT-TITLE",
                 "update_policy": "cycle_random",
 "payload": [
-                    {"uid": "RW_MTB_07", "label": "myTube", "description": "Description for myTube"},
+                    {"uid": "RW_MTB_07", "label": "myTube", "description": "myTube was built with one goal in mind: to provide the most fluid and feature-rich YouTube experience on Windows 8. Designed to feel like a native part of the OS, it prioritizes speed, elegant transitions, and a clean interface that puts the content first."},
                     {"uid": "RW_G_ABS", "label": "angryBirdsSpace", "description": "Description for Angry Birds Space"},
                     {"uid": "RW_ADOBE_PS", "label": "adobePhotoshop", "description": "Description for Photoshop"},
                     {"uid": "RW_G_MSW", "label": "msMinesweeper", "description": "Description for Minesweeper"},
@@ -153,6 +153,7 @@
         }
     }
 }
+
 
 
 
