@@ -48,6 +48,7 @@
                     
                         {"uid": "RW_MTB_07", "label": "myTube", "description": "myTube was built with one goal in mind to provide the most fluid and feature-rich YouTube experience on Windows 8. Designed to feel like a native part of the OS, it prioritizes speed, elegant transitions, and a clean interface that puts the content first.", "image_url": ""},
                         {"uid": "RW_TYPS_01", "label": "tortasypostres", "description": "Bring the sweetness home Tortas y Postres is a beautifully designed Windows 8 application dedicated to the world of fine cakes and desserts. Designed with the modern Metro interface in mind, it offers a visual feast of recipes that look stunning on both tablets and desktop PCs.", "image_url": "https://reworkw8.github.io/WSRMasterServer/images/tortasypostresspli.png"},
+                        {"uid": "RW_TYPS_01", "label": "crossyRoad", "description": "Why did the Chicken cross the road? Find out in Crossy Road, the 8-bit endless arcade hopper that became a global phenomenon. Now fully optimized for Windows 8, this hit from Hipster Whale takes the classic Frogger formula and transforms it into a colorful, addictive, and hilarious journey through a blocky world of traffic, trains, and rivers.", "image_url": "https://reworkw8.github.io/WSRMasterServer/images/crossyRoadspli.PNG"},
                         {"uid": "RW_MH_01", "label": "moorhuhn", "description": "Against a magnificent backdrop, it's time once again to hit the CHICKEN! This time, the moorhuhn will try absolutely everything to escape the player. Whether it hides in an old oven, flees to the outhouse, or even disguises itself as a sunflower, the chicken will leave no stone unturned in its quest to evade the hunter. But this game isn't just about shooting, because moorhuhns are a cunning bunch! Uncover all their secrets to maximize your score.", "image_url": "https://reworkw8.github.io/WSRMasterServer/images/moorhuhnspli.PNG"}
                         
                         
@@ -177,6 +178,7 @@
         }
     }
 }
+
 
 
 
