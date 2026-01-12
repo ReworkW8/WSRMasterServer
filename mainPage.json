@@ -41,6 +41,17 @@
                     {"uid": "RW_G_RRX", "label": "raymanJungleRun", "description": "The legendary platforming hero makes his grand debut on Windows 8! Powered by the same gorgeous UbiArt Framework engine used in Rayman Origins, Rayman Jungle Run brings breathtaking visuals and rhythm-based action to your screen. Sprint through the lush landscapes of the Glade of Dreams in a high-speed adventure that is easy for anyone to pick up, but a true challenge to master."}
                 ]
             },
+            "spotlight": {
+                "internal_code": "RW-SPOTLIGHT-PROMO",
+                "payload": [
+                    {
+                        "uid": "RW_MTB_07",
+                        "label": "myTube",
+                        "description": "Experience YouTube like never before.",
+                        "image_url": "https://link-zu-deinem-bild.png"
+                    }
+                ]
+            },
             "deployment_groups": {
                 "curated_selection": {
                     "title": "Featured",
@@ -163,8 +174,3 @@
         }
     }
 }
-
-
-
-
-
