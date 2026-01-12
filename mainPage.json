@@ -45,7 +45,7 @@
                 "internal_code": "RW-SPOTLIGHT-PROMO",
                 "payload": [
                     
-                        {"uid": "RW_MTB_07", "label": "myTube", "description": "Experience YouTube like never before.", "image_url": ""},
+                        {"uid": "RW_MTB_07", "label": "myTube", "description": "Experience YouTube like never before.", "image_url": "https://reworkw8.github.io/WSRMasterServer/images/photoshop.png"},
                         {"uid": "RW_MTB_07", "label": "moorhuhn", "description": "Experience Moorhuhn like never before.", "image_url": "https://reworkw8.github.io/WSRMasterServer/images/photoshop.png"}
                         
                         
@@ -175,6 +175,7 @@
         }
     }
 }
+
 
 
 
