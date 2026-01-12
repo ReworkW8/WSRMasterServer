@@ -44,12 +44,12 @@
             "spotlight": {
                 "internal_code": "RW-SPOTLIGHT-PROMO",
                 "payload": [
-                    {
-                        "uid": "RW_MTB_07",
-                        "label": "myTube",
-                        "description": "Experience YouTube like never before.",
-                        "image_url": "https://link-zu-deinem-bild.png"
-                    }
+                    
+                        {"uid": "RW_MTB_07", "label": "myTube", "description": "Experience YouTube like never before.", "image_url": ""}
+                        
+                        
+                        
+                    
                 ]
             },
             "deployment_groups": {
@@ -174,3 +174,4 @@
         }
     }
 }
+
