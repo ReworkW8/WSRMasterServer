@@ -91,6 +91,7 @@
                         {"uid": "RW_DZR_01", "label": "deezer"},
                         {"uid": "RW_VLC_01", "label": "vlcplayer"},
                         {"uid": "RW_EBY_01", "label": "ebay"},
+                        {"uid": "RW_ADRE_01", "label": "adobereader"},
                         {"uid": "RW_AMZN_01", "label": "amazon"}
                     ]
                 },
@@ -162,6 +163,7 @@
         }
     }
 }
+
 
 
 
