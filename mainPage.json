@@ -9,7 +9,7 @@
             "version_lock": {
                 "active_version": "1.2.0.0",
                 "action_on_incompatible": "FORCE_OFFLINE",
-                "enforce_maintenance_for_legacy": true
+                "maintenance_mode": true
             }
         },
         "network_routing": {
@@ -158,4 +158,5 @@
         }
     }
 }
+
 
