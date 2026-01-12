@@ -3,6 +3,7 @@
         "gateway_control": {
             "node_active": true,
             "maintenance_mode": true, 
+            "lock_mode": false,
             "session_persistence": "enabled",
             "global_status": "operational",
             "environment": "production-master",
@@ -158,6 +159,7 @@
         }
     }
 }
+
 
 
 
