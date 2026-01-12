@@ -3,9 +3,10 @@
     "productType" : "app",
     "category" : "music",
     "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/deezer.png",
-    "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/Deezer.Deezer_1.1.2.0_x86__q7m17pa7q8kj0.Appx"
+    "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/Deezer.Deezer_1.1.2.0_x86__q7m17pa7q8kj0.appx"
 
 }
+
 
 
 
