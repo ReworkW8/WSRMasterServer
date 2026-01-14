@@ -2,8 +2,6 @@
     "displayname" : "Adobe Photoshop Express",
     "productType" : "app",
     "category" : "productivity",
-    "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/photoshop.png",
-    "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/AdobeSystemsIncorporated.AdobePhotoshopExpressOEM_1.2.1.17_x64__ynb6jyjzte8ga.appx"
     "publisher": "Adobe Systems Incorporated",
     "copyright": "© 2014 Adobe Systems Incorporated. All rights reserved.",
     "description": "Snap. Edit. Share. Smile. Photo magic at your fingertips. On the go photo editing was never so fun, fast, and cool.",
@@ -12,8 +10,11 @@
     "ratingsCount": "120",
     "size": "48.5 MB",
     "ageRating": "3+",
+    "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/photoshop.png",
+    "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/AdobeSystemsIncorporated.AdobePhotoshopExpressOEM_1.2.1.17_x64__ynb6jyjzte8ga.appx"
 
 }
+
 
 
 
