@@ -5,7 +5,7 @@
             "maintenance_mode": true, 
             "lock_mode": true,
             "version1.3": true,
-            "version1.4": true,
+            "version1.4": false,
             "session_persistence": "enabled",
             "global_status": "operational",
             "environment": "production-master",
@@ -186,4 +186,5 @@
         }
     }
 }
+
 
