@@ -4,7 +4,7 @@
     "category" : "Productivity",
     "publisher": "Amazon Inc",
     "copyright": "© 2012 Amazon Inc. All rights reserved.",
-    "description": "Kindle for Windows 8 allows users to read Amazon eBooks on their PCs enabling access to purchased and borrowed eBooks. Users can manage their reading history, take notes, and adjust font sizes. The app also synchronizes with Amazon's Kindle Store, allowing for seamless reading across devices.",
+    "description": "Carry thousands of books in the palm of your hand. The Kindle app is reimagined for Windows 8, providing a beautiful, easy-to-use interface that turns your tablet or PC into a powerful e-reader. Whether you are catching up on a bestseller during your commute or studying a textbook at your desk, Kindle for Windows 8 offers a seamless and immersive reading experience.",
     "mainStars": "3",
     "ratingNumber": "2.6",
     "ratingsCount": "54",
@@ -14,6 +14,7 @@
     "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/AMZNMobileLLC.KindleforWindows8_2.1.0.2_neutral__stfe6vwa9jnbp.appx"
 
 }
+
 
 
 
