@@ -1,11 +1,20 @@
 {
     "displayname" : "Games",
     "productType" : "app",
-    "category" : "",
+    "category" : "Productivity",
+    "publisher": "Microsoft Corporation",
+    "copyright": "© 2014 Microsoft Corporation. All rights reserved.",
+    "description": "The Games app is your all-in-one destination for everything gaming on Windows 8. This app connects your Windows device directly to the Xbox ecosystem. Whether you’re playing casual touch-based hits, deep strategy titles, or managing your microsoft profile on the go, the Games app makes it easier than ever to stay connected to your gaming life.",
+    "mainStars": "3",
+    "ratingNumber": "3.8",
+    "ratingsCount": "119",
+    "size": "9.17 MB",
+    "ageRating": "Everyone",
     "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/XBLGames.png",
     "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/Games.appx"
 
 }
+
 
 
 
