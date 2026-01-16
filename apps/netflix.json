@@ -1,11 +1,20 @@
 {
     "displayname" : "Netflix",
     "productType" : "app",
-    "category" : "productivity",
+    "category" : "Productivity",
+    "publisher": "Netflix, Inc",
+    "copyright": "© 2012 Netflix, Inc. All rights reserved.",
+    "description": "The Netflix app for Windows 8 provides a convenient way to access the extensive library of movies and series available on Netflix. It is designed to enhance the streaming experience and much more.",
+    "mainStars": "2",
+    "ratingNumber": "2.3",
+    "ratingsCount": "78",
+    "size": "5.64 MB",
+    "ageRating": "Everyone",
     "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/netflix.png",
     "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/4DF9E0F8.Netflix_2.22.0.39_x86__mcm4njqhnhss8.appx"
 
 }
+
 
 
 
