@@ -1,11 +1,20 @@
 {
     "displayname" : "App Installer",
     "productType" : "app",
-    "category" : "App Installer",
+    "category" : "Productivity",
+    "publisher": "modernw",
+    "copyright": "© 2025 modernw. All rights reserved.",
+    "description": "Bring the modern "Double-Click to Install" experience to Windows 8. In the original Windows 8 environment, installing .appx and .appxbundle files often required complex PowerShell commands or developer licenses. App Installer for Windows 8 is a lightweight, open-source utility designed to bridge this gap, providing a user-friendly interface for sideloading applications just like the modern "App Installer" found in Windows 10 and 11.",
+    "mainStars": "5",
+    "ratingNumber": "6.8",
+    "ratingsCount": "162",
+    "size": "152 MB",
+    "ageRating": "Everyone",
     "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/appinstaller.png",
     "downloadUri" : "https://github.com/modernw/AppInstallerForWin8/releases/download/1.0.1.13/InstallerSetup.exe"
 
 }
+
 
 
 
