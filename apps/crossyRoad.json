@@ -1,9 +1,18 @@
 {
     "displayname" : "Crossy Road",
     "productType" : "game",
-    "category" : "puzzle",
+    "category" : "Games",
+    "publisher": "Yodo1 Ltd",
+    "copyright": "© 2014 Yodo1 Ltd. All rights reserved.",
+    "description": "Why did the Chicken cross the road? Find out in Crossy Road, the 8-bit endless arcade hopper that became a global phenomenon. Now fully optimized for Windows 8, this hit from Hipster Whale takes the classic Frogger formula and transforms it into a colorful, addictive, and hilarious journey through a blocky world of traffic, trains, and rivers.",
+    "mainStars": "4",
+    "ratingNumber": "5.8",
+    "ratingsCount": "134",
+    "size": "27.6 MB",
+    "ageRating": "Everyone",
     "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/crossyRoad.png",
     "downloadUri" : "https://dankassassin368.com/Stuff/APPX/Windows%208.1%20APPX%20Files/Games/Crossy%20Road/Yodo1Ltd.CrossyRoad_1.1.3.0_x86__s3s3f300emkze.appx"
 
 }
+
 
