@@ -1,9 +1,18 @@
 {
     "displayname" : "Fruit Ninja",
     "productType" : "app",
-    "category" : "puzzle",
+    "category" : "Games",
+    "publisher": "Adobe Systems Incorporated",
+    "copyright": "© 2014 Adobe Systems Incorporated. All rights reserved.",
+    "description": "Slice across the screen to deliciously slash and splatter fruit like a true ninja warrior. Be careful of bombs – they are explosive to touch and will put a swift end to your juicy adventure! Fruit Ninja features Classic, Zen and the amazing Arcade mode! Your success will also please the wise ninja Sensei, who will accompany your journey with wise words and fun fruit facts. Fruit Ninja is the messiest and most satisfying fruit game ever!",
+    "mainStars": "4",
+    "ratingNumber": "3.8",
+    "ratingsCount": "138",
+    "size": "78.3 MB",
+    "ageRating": "Everyone",
     "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/fruitNinja.png",
     "downloadUri" : "https://dankassassin368.com/Stuff/APPX/Windows%208.0%20APPX%20Files/Games/Fruit%20Ninja/HalfbrickStudiosPtyLtd.FruitNinja_1.8.1.66_x86__w77bc8x1h5kya.appx"
 
 }
+
 
