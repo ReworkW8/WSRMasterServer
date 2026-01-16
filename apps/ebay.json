@@ -1,11 +1,20 @@
 {
     "displayname" : "eBay",
     "productType" : "app",
-    "category" : "productivity",
+    "category" : "Productivity",
+    "publisher": "eBay Inc",
+    "copyright": "© 2017 eBay Inc. All rights reserved.",
+    "description": "Buy, sell, and browse millions of items with a flick of your finger. The eBay app for Windows 8 brings the power of the world’s largest online marketplace directly to your Start Screen. Reimagined for a touch-first world, the app replaces cluttered lists with a beautiful, high-resolution grid of products. Whether you are hunting for a rare collectible or selling your old gadgets, the eBay app makes the process faster and more visual than ever before.",
+    "mainStars": "2",
+    "ratingNumber": "2.0",
+    "ratingsCount": "10",
+    "size": "2.77 MB",
+    "ageRating": "Everyone",
     "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/ebay.png",
     "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/eBayInc.eBay_1.3.2.60_neutral__1618n3s9xq8tw.appx"
 
 }
+
 
 
 
