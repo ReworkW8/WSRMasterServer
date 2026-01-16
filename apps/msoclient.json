@@ -1,7 +1,7 @@
 {
     "displayname" : "MSO V.2.0",
     "productType" : "app",
-    "category" : "Games",
+    "category" : "Mods",
     "publisher": "Rework",
     "copyright": "© 2025 Rework. All rights reserved.",
     "description": "Rework created a MySims Online mod and it is finished and ready to download for anyone who wants to experience the online features again. However, these features will now be available on LAN and no longer on servers. Also, be aware that bugs may occur if the game prompts you to log in with an EA account. Just type anything in the login window you'll be able to log in because the game no longer communicates with the servers.",
@@ -14,6 +14,7 @@
     "downloadUri" : "https://mega.nz/file/jc1CWYLS#KytvOTxFqKW_bAK5ftY0PCNZ5-LeNI3vE10TozfhuXk"
 
 }
+
 
 
 
