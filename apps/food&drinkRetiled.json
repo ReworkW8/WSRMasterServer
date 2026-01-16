@@ -1,10 +1,19 @@
 {
     "displayname" : "Food & Drink",
     "productType" : "app",
-    "category" : "",
+    "category" : "Productivity",
+    "publisher": "Microsoft Corporation",
+    "copyright": "© 2014 Microsoft Corporation. All rights reserved.",
+    "description": "Food & Drink serves as a comprehensive platform for culinary enthusiasts. Recipes span multiple cuisines, catering to various tastes and preferences. Each recipe features clear instructions and ingredient lists, making cooking accessible for everyone.",
+    "mainStars": "4",
+    "ratingNumber": "4.5",
+    "ratingsCount": "136",
+    "size": "4.7 MB",
+    "ageRating": "Everyone",
     "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/FoodDrink.png",
     "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/Microsoft.BingFoodAndDrink_3.0.0.693_x64__8wekyb3d8bbwe.appx"
 
 }
+
 
 
