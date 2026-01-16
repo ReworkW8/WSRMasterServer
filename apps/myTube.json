@@ -1,11 +1,20 @@
 {
     "displayname" : "myTube!",
     "productType" : "app",
-    "category" : "social",
+    "category" : "Productivity",
+    "publisher": "Ryken Studio",
+    "copyright": "© 2015 Ryken Studio. All rights reserved.",
+    "description": "myTube! was built with one goal in mind to provide the most fluid and feature-rich YouTube experience on Windows 8. Designed to feel like a native part of the OS, it prioritizes speed, elegant transitions, and a clean interface that puts the content first.",
+    "mainStars": "2",
+    "ratingNumber": "1.8",
+    "ratingsCount": "89",
+    "size": "1.84 MB",
+    "ageRating": "Everyone",
     "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/myTube.png",
     "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/myTube.appx"
 
 }
+
 
 
 
