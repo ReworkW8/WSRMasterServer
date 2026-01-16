@@ -1,10 +1,19 @@
 {
     "displayname" : "Rayman Jungle Run",
     "productType" : "app",
-    "category" : "racing",
+    "category" : "Games",
+    "publisher": "Ubisoft Entertainment",
+    "copyright": "© 2013 Ubisoft Entertainment. All rights reserved.",
+    "description": "The legendary platforming hero makes his grand debut on Windows 8! Powered by the same gorgeous UbiArt Framework engine used in Rayman Origins, Rayman Jungle Run brings breathtaking visuals and rhythm-based action to your screen. Sprint through the lush landscapes of the Glade of Dreams in a high-speed adventure that is easy for anyone to pick up, but a true challenge to master.",
+    "mainStars": "3",
+    "ratingNumber": "3.0",
+    "ratingsCount": "100",
+    "size": "271 MB",
+    "ageRating": "Everyone",
     "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/raymanJungleRun.png",
     "downloadUri" : "https://dankassassin368.com/Stuff/APPX/Windows%208.1%20APPX%20Files/Games/Rayman%20Jungle%20Run/RaymanJungleRunRemastered.appx"
 
 }
+
 
 
