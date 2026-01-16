@@ -1,11 +1,20 @@
 {
     "displayname" : "DogeDodge",
     "productType" : "app",
-    "category" : "productivity",
+    "category" : "Games",
+    "publisher": "Alfredtech",
+    "copyright": "© 2013 Alfredtech. All rights reserved.",
+    "description": "Very speed. Much danger. So survival. The internet’s favorite Shiba Inu arrives on Windows 8 in Doge Dodge, a high-octane, endless survival game. Put your reflexes to the ultimate test as you navigate a chaotic world filled with obstacles, all while trying to keep the legendary Doge safe.",
+    "mainStars": "3",
+    "ratingNumber": "3.6",
+    "ratingsCount": "120",
+    "size": "4.17 MB",
+    "ageRating": "Everyone",
     "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/dogedodge.png",
     "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/28551Alfredtech.DogeDodge_1.0.0.0_neutral__nvqy9j420z7zy.appx"
 
 }
+
 
 
 
