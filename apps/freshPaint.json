@@ -1,9 +1,18 @@
 {
     "displayname" : "Fresh Paint",
     "productType" : "app",
-    "category" : "productivity",
+    "category" : "Productivity",
+    "publisher": "Microsoft Corporation",
+    "copyright": "© 2015 Microsoft Corporation. All rights reserved.",
+    "description": "Unleash your inner creative with Fresh Paint – the ultimate canvas for your big ideas. Fresh Paint is a fun and easy to use painting app with the right tools for artists of all ages. We believe that brilliant, creative ideas can come from anyone, anytime.  It’s time to set your creativity free. Create original artwork, turn photos into beautiful paintings, or choose an activity pack to help you get started quickly. From whimsical pictures of your friends to amazing landscapes, Fresh Paint enables you to create anything",
+    "mainStars": "4",
+    "ratingNumber": "3.5",
+    "ratingsCount": "127",
+    "size": "102 MB",
+    "ageRating": "Everyone",
     "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/freshPaint.png",
     "downloadUri" : "https://dankassassin368.com/Stuff/APPX/Windows%208.1%20APPX%20Files/Apps/FreshPaint/Microsoft.FreshPaint_2.0.15133.0_x86__8wekyb3d8bbwe.appx"
 
 }
+
 
