@@ -11,9 +11,13 @@
     "size": "7.34 MB",
     "ageRating": "Everyone",
     "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/Healthfitness.png",
+    "pageimg1": "https://reworkw8.github.io/WSRMasterServer/images/health%26fitnessimg1.PNG",
+    "pageimg2": "https://reworkw8.github.io/WSRMasterServer/images/health%26fitnessimg2.PNG",
+    "pageimg3": "https://reworkw8.github.io/WSRMasterServer/images/health%26fitnessimg3.PNG",
     "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/Microsoft.BingHealthAndFitness_3.0.0.693_x64__8wekyb3d8bbwe.appx"
 
 }
+
 
 
 
