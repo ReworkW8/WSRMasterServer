@@ -11,9 +11,13 @@
     "size": "152 MB",
     "ageRating": "Everyone",
     "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/appinstaller.png",
+    "pageimg1": "https://reworkw8.github.io/WSRMasterServer/images/appinstallerimg1.PNG",
+    "pageimg2": "https://reworkw8.github.io/WSRMasterServer/images/appinstallerimg2.PNG",
+    "pageimg3": "https://reworkw8.github.io/WSRMasterServer/images/appinstallerimg3.PNG",
     "downloadUri" : "https://github.com/modernw/AppInstallerForWin8/releases/download/1.0.1.13/InstallerSetup.exe"
 
 }
+
 
 
 
