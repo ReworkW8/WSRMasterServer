@@ -1,7 +1,7 @@
 {
-    "displayname" : "Adobe Photoshop Express",
-    "productType" : "app",
-    "category" : "Productivity",
+    "displayname": "Adobe Photoshop Express",
+    "productType": "app",
+    "category": "Productivity",
     "publisher": "Adobe Systems Incorporated",
     "copyright": "© 2014 Adobe Systems Incorporated. All rights reserved.",
     "description": "The world’s most advanced digital imaging software, now optimized for the next generation of hardware. Whether you are a professional photographer or a digital artist, Adobe Photoshop on Windows 8 brings you closer to your pixels than ever before. With support for high-DPI displays and intuitive touch gestures, your canvas is now more responsive and immersive.",
@@ -10,20 +10,9 @@
     "ratingsCount": "120",
     "size": "8.33 MB",
     "ageRating": "Everyone",
-    "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/photoshop.png",
-    "pageimg1" : "https://reworkw8.github.io/WSRMasterServer/images/CutTheRope.png",
-    "pageimg2" : "https://reworkw8.github.io/WSRMasterServer/images/adobereader.png",
-    "pageimg3" : "https://reworkw8.github.io/WSRMasterServer/images/amazon.png",
-    "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/AdobeSystemsIncorporated.AdobePhotoshopExpressOEM_1.2.1.17_x64__ynb6jyjzte8ga.appx"
-
+    "imgUrl": "https://reworkw8.github.io/WSRMasterServer/images/photoshop.png",
+    "pageimg1": "https://reworkw8.github.io/WSRMasterServer/images/CutTheRope.png",
+    "pageimg2": "https://reworkw8.github.io/WSRMasterServer/images/adobereader.png",
+    "pageimg3": "https://reworkw8.github.io/WSRMasterServer/images/amazon.png",
+    "downloadUri": "https://reworkw8.github.io/WSRMasterServer/appxs/AdobeSystemsIncorporated.AdobePhotoshopExpressOEM_1.2.1.17_x64__ynb6jyjzte8ga.appx"
 }
-
-
-
-
-
-
-
-
-
-
