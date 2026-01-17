@@ -11,9 +11,13 @@
     "size": "5.45 MB",
     "ageRating": "Everyone",
     "imgUrl" : "https://reworkw8.github.io/WSRMasterServer/images/news.png",
+    "pageimg1": "https://reworkw8.github.io/WSRMasterServer/images/newsimg1.PNG",
+    "pageimg2": "https://reworkw8.github.io/WSRMasterServer/images/newsimg2.PNG",
+    "pageimg3": "https://reworkw8.github.io/WSRMasterServer/images/newsimg3.PNG",
     "downloadUri" : "https://reworkw8.github.io/WSRMasterServer/appxs/Microsoft.BingNews_3.0.0.693_x64__8wekyb3d8bbwe.appx"
 
 }
+
 
 
 
